@@ -1,0 +1,8 @@
+{
+  "urlRandomness": "uw-ic7",
+  "hostType": "lan",
+  "lanType": "ip",
+  "dev": true,
+  "minify": false,
+  "https": true
+}
